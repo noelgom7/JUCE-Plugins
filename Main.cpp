@@ -7,7 +7,7 @@
 */
 
 #include <JuceHeader.h>
-#include "OscillatorDemo.h"
+#include "Oscillator.h"
 
 class Application    : public juce::JUCEApplication
 {
